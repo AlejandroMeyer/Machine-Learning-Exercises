@@ -17,5 +17,5 @@ Encontrarás dos ejercicios de ML, el primero enfocado al lenguaje y la comparac
 En el ejercicio de "diálogos" tiene diferentes aplicaciones, sin embargo, es una práctica para poder diferenciar el intercambio de dos personas distintas. 
 
 
-En el ejercicio de "coches" encontrarán que el modelo no es el mejor implementado para la predicción de precio de venta. Sin embargo sirve como práctica para futuros modelos de predicción en ML.
+En el ejercicio de "coches" encontrarán que el modelo no es el mejor implementado para la predicción de precios de venta. Sin embargo sirve como práctica para futuros modelos de predicción en ML.
 Es necesario hacer énfasis en que este modelo NO se encuentra optimizado.  
