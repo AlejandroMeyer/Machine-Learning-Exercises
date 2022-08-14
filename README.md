@@ -7,6 +7,11 @@ In the exercise of "dialogues" it has different applications, however, it is a p
 In the "cars" exercise you will find that the model is not the best implemented for selling price prediction. However, it serves as practice for future prediction models in ML.
 It is necessary to emphasize that this model is NOT optimized. 
 
+Comments:
+1.- Improve the sales prediction model.
+2.- Write the comments in English.
+* All the content is designed so that anyone can understand the procedure although the comments are not optimized for clean code.
+
 
 -----------------------
 
@@ -19,3 +24,9 @@ En el ejercicio de "diálogos" tiene diferentes aplicaciones, sin embargo, es un
 
 En el ejercicio de "coches" encontrarán que el modelo no es el mejor implementado para la predicción de precios de venta. Sin embargo sirve como práctica para futuros modelos de predicción en ML.
 Es necesario hacer énfasis en que este modelo NO se encuentra optimizado.  
+
+
+Comentarios:
+1.- Mejorar el modelo de predicción de ventas.
+2.- Escribir los comentarios en inglés.
+* Todo el contenido esta pensado para que cualquier persona pueda entender el procedimiento aunque los comentarios no estén optimizados para un código limpio.
