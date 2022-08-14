@@ -8,8 +8,8 @@ In the "cars" exercise you will find that the model is not the best implemented 
 It is necessary to emphasize that this model is NOT optimized. 
 
 Comments:
-1.- Improve the sales prediction model.
-2.- Write the comments in English.
+* Improve the sales prediction model.
+* Write the comments in English.
 * All the content is designed so that anyone can understand the procedure although the comments are not optimized for clean code.
 
 
@@ -27,6 +27,6 @@ Es necesario hacer énfasis en que este modelo NO se encuentra optimizado.
 
 
 Comentarios:
-1.- Mejorar el modelo de predicción de ventas.
-2.- Escribir los comentarios en inglés.
+* Mejorar el modelo de predicción de ventas.
+* Escribir los comentarios en inglés.
 * Todo el contenido esta pensado para que cualquier persona pueda entender el procedimiento aunque los comentarios no estén optimizados para un código limpio.
